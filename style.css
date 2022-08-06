@@ -16,4 +16,33 @@ body {
 
 button {
     margin-top: 20px;
+    letter-spacing: 5px;
+    font-weight: 900;
+    font-family: 'Dancing Script', cursive;
+}
+
+p {
+    color: white;
+    font-weight: bolder;
+}
+
+.header_div {
+    letter-spacing: 7px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 900;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    width: 100%;
+    text-align: center;
+    font-size: 10px;
+    text-shadow: 7px 7px 7px black;
+    font-family: 'Dancing Script', cursive;
+}
+
+i {
+    font-size: 20px;
 }
